@@ -1,7 +1,7 @@
 # module-1-repo
 module-1-repo
 
-![module-1-repo](https://hoeferm2.github.io/module-1-repo/)
+(https://hoeferm2.github.io/module-1-repo/)
 
 ##Description
 - The module 1 challenge consisted of taking existing code (both html and css) and adding acessability through the renaming of elements and consolidation of css selectors. 
